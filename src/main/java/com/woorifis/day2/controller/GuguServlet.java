@@ -11,9 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import lombok.extern.slf4j.Slf4j;
 
-/**
- * Servlet implementation class GuguServlet
- */
+
 @WebServlet("/Gugu")
 @Slf4j
 public class GuguServlet extends HttpServlet {
